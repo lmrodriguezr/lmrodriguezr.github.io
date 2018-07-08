@@ -3,7 +3,7 @@ layout: post
 title:  "Phytophthora infestans expression in planta"
 date:   2010-03-24
 excerpt: "Discovery of Phytophthora infestans genes expressed in planta through mining of cDNA libraries."
-citation: "Sierra, Rodriguez-R, et al. 2010. PLoS ONE 5(3): e9847"
+citation: "Sierra, Rodriguez-R, Chaves, Pinzón, Grajales, et al. 2010. PLoS ONE 5(3): e9847"
 publication: true
 tag:
 - plan pathology
@@ -14,8 +14,10 @@ comments: true
 ---
 
 <center>
-  Sierra R<sup>\*</sup>, **Rodríguez-R LM<sup>\*</sup>**, Chaves D, Pinzón A, Grajales A, Rojas A, Mutis G, Cárdenas M, Burbano D, Jiménez P, Bernal A, Restrepo S. 2010.
-  <a href='https://doi.org/10.1371/journal.pone.0009847'>PLoS ONE 5(3): e9847</a>. <sup>\*</sup> Equal contribution
+  Sierra R<sup>#</sup>, <em>Rodríguez-R LM<sup>#</sup></em>, Chaves D, Pinzón A, Grajales A, Rojas A, Mutis G, Cárdenas M, Burbano D, Jiménez P, Bernal A, Restrepo S. 2010.
+  <a href='https://doi.org/10.1371/journal.pone.0009847'>PLoS ONE 5(3): e9847</a>.
+
+  <sup>#</sup> Equal contribution
 </center>
 
 ## Background
