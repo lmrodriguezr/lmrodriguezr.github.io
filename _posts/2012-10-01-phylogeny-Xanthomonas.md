@@ -15,11 +15,6 @@ doi: 10.1186/1471-2180-12-43
 comments: true
 ---
 
-<center>
-  <em>Rodriguez-R LM</em>, Grajales A, Arrieta-Ortiz ML, Salazar C, Restrepo S, Bernal A. 2012.
-  <a href='https://doi.org/10.1186/1471-2180-12-43'>BMC Microbiology 12:43</a>.
-</center>
-
 ## Background
 The genus *Xanthomonas* comprises several plant pathogenic bacteria affecting a wide range of hosts. Despite the economic, industrial and biological importance of *Xanthomonas*, the classification and phylogenetic relationships within the genus are still under active debate. Some of the relationships between pathovars and species have not been thoroughly clarified, with old pathovars becoming new species. A change in the genus name has been recently suggested for *Xanthomonas albilineans*, an early branching species currently located in this genus, but a thorough phylogenomic reconstruction would aid in solving these and other discrepancies in this genus.
 
