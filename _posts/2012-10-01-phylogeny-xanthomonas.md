@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publication
 title:  "Phylogeny of Xanthomonas"
 date:   2012-10-01
 excerpt: "Genomes-based phylogeny of the genus Xanthomonas."

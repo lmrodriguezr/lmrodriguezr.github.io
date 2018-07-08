@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publication
 title:  "Phytophthora infestans expression in planta"
 date:   2010-03-01
 excerpt: "Discovery of Phytophthora infestans genes expressed in planta through mining of cDNA libraries."
