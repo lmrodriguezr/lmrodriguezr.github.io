@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bypassing cultivation"
-date:   2014-03-01
+date:   2014-03
 excerpt: "Bypassing cultivation to identify bacterial species."
 authors: 'Rodriguez-R LM, Konstantinidis KT.'
 citation: 'Microbe 9(3):111-118. 2014.'

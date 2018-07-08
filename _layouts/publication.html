@@ -15,36 +15,33 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
-                <div class="post-title">
-                    <h1>{{ page.title }}</h1>
-                    <a class="btn zoombtn" href="{{site.url}}">
-                        <i class="fa fa-home"></i>
+                <div class="post-title feature">
+                    <h1>{{ page.excerpt }}</h1>
+                    <h4>{{ page.date | date_to_string }}</h4>
+                    {{page.authors}}
+                    {% if page.doi %}
+                    <a href='https://doi.org/{{page.doi}}' target=_blank>{{page.citation}}</a>
+                    {% else %}
+                    {{page.citation}}
+                    {% endif %}
+                    {% if page.equal_contribution %}<br/>• Equal contribution.{% endif %}
+
+                    <a class="btn zoombtn" href="{{site.url}}/publications/">
+                        <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
-                <div class="post-list">
-                    {% for post in site.posts %}
-                        {% if post.publication %}
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>
-                              {{post.authors}} <b>{{ post.excerpt }}</b> <em>{{post.citation}}</em>
-                              {% if post.equal_contribution %}• Equal contribution.{% endif %}
-                            </p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read Abstract</a>
-                            {% if post.doi %}
-                              <a href="https://doi.org/{{ post.doi }}" class="btn zoombtn" target=_blank>Full Text</a>
-                            {% endif %}
-                        </li>
-                    </ul>
-                      {% endif %}
-                    {% endfor %}
+                {{ content }}
+                <div class="entry-meta">
+                {% include meta.html %}
                 </div>
             </div>
         </div>
+        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
     </header>
     {% include scripts.html %}
-    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
-    <script type="text/javascript">(new WOW).init();</script>
+    {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
 </body>
 </html>
