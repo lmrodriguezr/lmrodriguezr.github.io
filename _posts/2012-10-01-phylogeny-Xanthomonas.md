@@ -3,7 +3,8 @@ layout: post
 title:  "Phylogeny of Xanthomonas"
 date:   2010-03-24
 excerpt: "Genomes-based phylogeny of the genus Xanthomonas."
-citation: "Rodriguez-R, Grajales, Arrieta-Ortiz, Salazar, Restrepo, Bernal. 2012. BMC Microbiology 12:43"
+authors: 'Rodriguez-R LM, Grajales A, Arrieta-Ortiz ML, Salazar C, Restrepo S, Bernal A.'
+citation: 'BMC Microbiology 12:43. 2012.'
 publication: true
 tag:
 - plan pathology

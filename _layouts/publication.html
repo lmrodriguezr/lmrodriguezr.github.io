@@ -28,9 +28,7 @@ layout: compress
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>
-                              {% if post.citation %}
-                                {{post.citation}}:
-                              {% endif %}{{ post.excerpt }}
+                              {{post.authors}} <em>{{post.citation}}</em> <b>{{ post.excerpt }}</b>
                             </p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read Abstract</a>
                             {% if post.doi %}

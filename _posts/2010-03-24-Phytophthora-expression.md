@@ -3,7 +3,9 @@ layout: post
 title:  "Phytophthora infestans expression in planta"
 date:   2010-03-24
 excerpt: "Discovery of Phytophthora infestans genes expressed in planta through mining of cDNA libraries."
-citation: "Sierra, Rodriguez-R, Chaves, Pinzón, Grajales, et al. 2010. PLoS ONE 5(3): e9847"
+authors: 'Sierra R•, Rodriguez-R LM•, Chaves D, Pinzón A, Grajales A, Rojas A, Mutis G, Cárdenas M, Burbano D, Jiménez P, Bernal A, Restrepo S.'
+citation: 'PLoS ONE 5(3): e9847. 2010.'
+equal_contribution: true
 publication: true
 tag:
 - plan pathology
@@ -12,13 +14,6 @@ tag:
 doi: 10.1371/journal.pone.0009847
 comments: true
 ---
-
-<center>
-  Sierra R<sup>#</sup>, <em>Rodríguez-R LM<sup>#</sup></em>, Chaves D, Pinzón A, Grajales A, Rojas A, Mutis G, Cárdenas M, Burbano D, Jiménez P, Bernal A, Restrepo S. 2010.
-  <a href='https://doi.org/10.1371/journal.pone.0009847'>PLoS ONE 5(3): e9847</a>.
-
-  <sup>#</sup> Equal contribution
-</center>
 
 ## Background
 *Phytophthora infestans* (Mont.) de Bary causes late blight of potato and tomato, and has a broad host range within the Solanaceae family. Most studies of the *Phytophthora* – *Solanum* pathosystem have focused on gene expression in the host and have not analyzed pathogen gene expression *in planta*.

@@ -32,6 +32,18 @@ layout: compress
                         <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
+                {% if page.publication %}
+                <center>
+                  <h3>{{page.excerpt}}</h3>
+                  {{page.authors}}
+                  {% if page.doi %}
+                  <a href='https://doi.org/{{page.doi}}' target=_blank>{{page.citation}}</a>.
+                  {% else %}
+                  {{page.citation}}
+                  {% endif %}
+                  {% if page.equal_contribution %}• Equal contribution{% endif %}
+                </center>
+                {% endif %}
                 {{ content }}
                 <div class="entry-meta">
                 {% include meta.html %}
