@@ -3,6 +3,7 @@ layout: post
 title:  "Phytophthora infestans expression in planta"
 date:   2010-03-24
 excerpt: "Discovery of Phytophthora infestans genes expressed in planta through mining of cDNA libraries."
+citation: "Sierra, Rodriguez-R, et al. 2010. PLoS ONE 5(3): e9847"
 publication: true
 tag:
 - plan pathology
