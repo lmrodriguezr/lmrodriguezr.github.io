@@ -17,15 +17,17 @@ layout: compress
             <div class="content">
                 <div class="post-title feature">
                     <h1>{{ page.excerpt }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>
-                    {{page.authors}}
+                    <h4>{{ page.authors }}</h4>
+                    <p>
+                        <em>{{ page.citation }}</em>
+                        {% if page.equal_contribution %}<br/>• Equal contribution.{% endif %}
+                    </p>
                     {% if page.doi %}
-                    <a href='https://doi.org/{{page.doi}}' target=_blank>{{page.citation}}</a>
-                    {% else %}
-                    {{page.citation}}
+                    <a href='https://doi.org/{{page.doi}}' target=_blank class="btn">
+                        <i class="fa fa-file"></i>
+                        Full Text
+                    </a>
                     {% endif %}
-                    {% if page.equal_contribution %}<br/>• Equal contribution.{% endif %}
-
                     <a class="btn zoombtn" href="{{site.url}}/publications/">
                         <i class="fa fa-chevron-left"></i>
                     </a>
