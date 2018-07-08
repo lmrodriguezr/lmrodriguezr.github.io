@@ -26,23 +26,23 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   luismrodriguezr
+disqus_shortname:   'luismrodriguezr'
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
-  plus:            +LuisMRodriguezR
+#google:
+  #plus:            'LuisMRodriguezR'
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              'lmrodriguezr@gmail.com'
+#email:             'lmrodriguezr@gmail.com'
 twitter:            '_lrr_'
 #facebook:           username
 github-url:         'lmrodriguezr'
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           'lmrodriguezr'
 #xing:              username
 instagram:          '__lrr__'
 #lastfm:            username
