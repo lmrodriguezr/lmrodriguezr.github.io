@@ -34,14 +34,14 @@ layout: compress
                 </div>
                 {% if page.publication %}
                 <center class=feature>
-                  <h3>{{page.excerpt}}</h3>
+                  <h1>{{page.excerpt}}</h1>
                   {{page.authors}}
                   {% if page.doi %}
                   <a href='https://doi.org/{{page.doi}}' target=_blank>{{page.citation}}</a>
                   {% else %}
                   {{page.citation}}
                   {% endif %}
-                  {% if page.equal_contribution %}• Equal contribution.{% endif %}
+                  {% if page.equal_contribution %}<br/>• Equal contribution.{% endif %}
                 </center>
                 {% endif %}
                 {{ content }}
