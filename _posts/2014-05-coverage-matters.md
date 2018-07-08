@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metagenomic Coverage"
-date:   2014-05
+date:   2014-05-01
 excerpt: "Estimating coverage in metagenomic data sets and why it matters."
 authors: 'Rodriguez-R LM, Konstantinidis KT.'
 citation: 'ISME Journal 8(11):2349. 2014.'

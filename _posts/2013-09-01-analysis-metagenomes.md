@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Analysis of Metagenomes"
-date:   2013-09
+date:   2013-09-01
 excerpt: "A user’s guide to quantitative and comparative analysis of metagenomic datasets."
 authors: 'Luo C•, Rodriguez-R LM•, Konstantinidis KT.'
 citation: 'Methods in Enzymology 531:525-547. 2013.'
