@@ -15,7 +15,6 @@ comments: true
 ---
 
 ## Summary
-
 * The current approach to defining bacterial species, based on genetic and phenotypic distinctiveness, is problematic.
 * Bypassing cultivation to assess natural populations provides a valuable and perhaps more authoritative approach to identifying and defining bacterial species.
 * Natural microbial communities are predominantly composed of sequence-discrete populations, with exceptions likely to be found within habitats that undergo frequent fluctuations or for organisms with unique ecologic characteristics.
