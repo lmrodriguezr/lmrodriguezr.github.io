@@ -8,6 +8,7 @@ tag:
 - plan pathology
 - transcriptomics
 - networks
+doi: 10.1371/journal.pone.0009847
 comments: true
 ---
 
