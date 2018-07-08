@@ -1,37 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about]
+date: 2018-07-08
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Microbial Ecology & Evolution
 
-## Preview
+My main research interest is the understanding of **eco-evolutionary principles** governing microbial communities: primary evolutionary and ecologic forces shaping **populations** and their **metabolic potential**, their **interactions** with other microbial species, their **hosts**, and the **environment**, and the role of **stochasticity**.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Microbiome Analysis
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+In the pursuit of these questions, I’ve garnered ample experience on **genomic** and **metagenomic** analyses in **environmental**, **clinical**, **agricultural**, and **engineered settings**, including the description, characterization, modeling, and simulation of microbial communities and populations. I’ve explored and discussed both theoretical and practical problems on microbiome analysis including the development and application of methods on **phylogenomics**, **taxonomy** of prokaryotes, **metabolic modeling**, **statistical techniques**, and **sequence analyses**.
 
-## Getting Started
+## Scientific Production
+I’ve authored **over three dozen papers and book chapters** (about a third as first author) with **over a thousand citations** and an **h-index of 19**, presented multiple **workshops**, **seminars**, and **symposia** on microbiome analysis for researchers and undergraduate educators, and served as **reviewer** for several international journals.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Software Development
+New ideas need implementation, and throughout my research I’ve made it a point to implement those ideas in **efficient**, **high-quality**, **well-documented**, and **user-friendly software**. I’ve developed tens of **bioinformatic tools** and **web interfaces** in a variety of programming languages and frameworks (**Ruby**, **Rails**, **Perl**, **R**, **C++**, etc) with over 6,000 downloads or online queries per month, available at http://enve-omics.ce.gatech.edu/ and http://microbial-genomes.org/.
