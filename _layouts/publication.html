@@ -7,43 +7,43 @@ layout: compress
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
-    {% include head.html %}
+  {% include head.html %}
 </head>
 <body>
-    {% include nav.html %}
-    <!-- Header -->
-    <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
-            <div class="content">
-                <div class="post-title feature">
-                    <h1>{{ page.excerpt }}</h1>
-                    <h4>
-                      {{ page.authors }}
-                      {% if page.equal_contribution %}• Equal contribution.{% endif %}
-                    </h4>
-                    <h4><em>{{ page.citation }}</em></h4>
-                    <a class="btn zoombtn" href="{{site.url}}/publications/">
-                        <i class="fa fa-chevron-left"></i>
-                    </a>
-                    {% if page.doi %}
-                    <a href='https://doi.org/{{page.doi}}' target=_blank class="btn">
-                        <i class="fa fa-file"></i>
-                        Full Text
-                    </a>
-                    {% endif %}
-                </div>
-                {{ content }}
-                <div class="entry-meta">
-                {% include meta.html %}
-                </div>
-            </div>
+  {% include nav.html %}
+  <!-- Header -->
+  <header class="header" role="banner">
+    <div class="wrapper animated fadeIn">
+      <div class="content">
+        <div class="post-title feature">
+          <h1>{{ page.excerpt }}</h1>
+          <h4>
+            {{ page.authors }}
+            {% if page.equal_contribution %}• Equal contribution.{% endif %}
+          </h4>
+          <h4><em>{{ page.citation }}</em></h4>
+          <a class="btn zoombtn" href="{{site.url}}/publications/">
+              <i class="fa fa-fw fa-chevron-left"></i>
+          </a>
+          {% if page.doi %}
+          <a href='https://doi.org/{{page.doi}}' target=_blank class="btn">
+              <i class="fa fa-file"></i>
+              Full Text
+          </a>
+          {% endif %}
         </div>
-        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
-    </header>
-    {% include scripts.html %}
-    {% if site.mathjax == true %}
-    <!-- MathJax -->
-    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    {% endif %}
+        {{ content }}
+        <div class="entry-meta">
+        {% include meta.html %}
+        </div>
+      </div>
+    </div>
+    {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+  </header>
+  {% include scripts.html %}
+  {% if site.mathjax == true %}
+  <!-- MathJax -->
+  <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  {% endif %}
 </body>
 </html>
