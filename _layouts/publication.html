@@ -22,6 +22,15 @@ layout: compress
             {% if page.equal_contribution %}• Equal contribution.{% endif %}
           </h4>
           <h4><em>{{ page.citation }}</em></h4>
+          {% if page.doi %}
+          <div class='row'>
+            <span class="__dimensions_badge_embed__" data-doi="{{ page.doi }}"
+                  data-style="small_circle" data-hide-zero-citations="true"></span>
+            <div data-badge-popover="right" data-badge-type="donut"
+                  data-doi="{{ page.doi }}" data-condensed="true"
+                  data-hide-no-mentions="true" class="altmetric-embed"></div>
+          </div>
+          {% endif %}
           <a class="btn zoombtn" href="{{site.url}}">
             <i class="fa fa-fw fa-home"></i>
           </a>
