@@ -6,19 +6,19 @@ date: 2018-07-08
 comments: false
 ---
 
+<hr class='hr-line'>
 <center>
     <a href='https://scholar.google.com/citations?user=NflBi1cAAAAJ&hl=en' class='btn'>Google Scholar</a>
     <a href='http://orcid.org/0000-0001-7603-3093' class='btn'>ORCID</a>
     <a href='https://www.researchgate.net/profile/Luis_Rodriguez-R' class='btn'>ResearchGate</a>
     <a href='https://publons.com/a/326532' class='btn'>Publons</a>
 </center>
+<hr class='hr-line'>
 
 ## Microbial Ecology & Evolution
-
 My main research interest is the understanding of **eco-evolutionary principles** governing microbial communities: primary evolutionary and ecologic forces shaping **populations** and their **metabolic potential**, their **interactions** with other microbial species, their **hosts**, and the **environment**, and the role of **stochasticity**.
 
 ## Microbiome Analysis
-
 In the pursuit of these questions, I’ve garnered ample experience on **genomic** and **metagenomic** analyses in **environmental**, **clinical**, **agricultural**, and **engineered settings**, including the description, characterization, modeling, and simulation of microbial communities and populations. I’ve explored and discussed both theoretical and practical problems on microbiome analysis including the development and application of methods on **phylogenomics**, **taxonomy** of prokaryotes, **metabolic modeling**, **statistical techniques**, and **sequence analyses**.
 
 ## Scientific Production
