@@ -6,7 +6,7 @@ excerpt: "A user’s guide to quantitative and comparative analysis of metagenom
 authors: 'Luo C•, Rodriguez-R LM•, Konstantinidis KT.'
 citation: 'Methods in Enzymology 531:525-547. 2013.'
 equal_contribution: true
-publication: true
+category: publication
 tag:
 - metagenomics
 doi: 10.1016/B978-0-12-407863-5.00023-X

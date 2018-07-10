@@ -4,14 +4,14 @@ title:  "Enveomics Collection"
 date:   2016-03-01
 excerpt: "The enveomics collection: a toolbox for specialized analyses of microbial genomes and metagenomes."
 authors: 'Rodriguez-R LM, Konstantinidis KT.'
-citation: 'PeerJ Preprints 4:e1900v1. 2016.'
-publication: true
+citation: 'PeerJ Preprints 4:e1900. 2016.'
+category: publication
 tag:
 - metagenomics
 - genomics
 - software
 - statistics
-doi: 10.7287/peerj.preprints.1900v1
+doi: 10.7287/peerj.preprints.1900
 comments: true
 ---
 

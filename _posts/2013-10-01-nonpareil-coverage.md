@@ -5,7 +5,7 @@ date:   2013-10-01
 excerpt: "Nonpareil: a redundancy-based approach to assess the level of coverage in metagenomic datasets."
 authors: 'Rodriguez-R LM, Konstantinidis KT.'
 citation: 'Bioinformatics 30(5):629-635. 2013.'
-publication: true
+category: publication
 tag:
 - metagenomics
 - software

@@ -5,7 +5,7 @@ date:   2018-07-01
 excerpt: "The Microbial Genomes Atlas (MiGA) webserver: taxonomic and gene diversity analysis of Archaea and Bacteria at the whole genome level."
 authors: 'Rodriguez-R LM, Gunturu S, Harvey WT, Rosselló-Mora R, Cole JR, Tiedje JM, Konstantinidis KT.'
 citation: 'Nucleic Acids Research 46(W1):W282-W288. 2018.'
-publication: true
+category: publication
 tag:
 - genomics
 - software
