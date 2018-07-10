@@ -12,7 +12,7 @@ locale:             en_US
 url:                https://rodriguez-r.com
 
 # Jekyll
-permalink:          /:title/
+permalink:          /:layout/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
