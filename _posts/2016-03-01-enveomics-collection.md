@@ -11,7 +11,7 @@ tag:
 - genomics
 - software
 - statistics
-doi: 10.7287/peerj.preprints.1900
+doi: 10.7287/peerj.preprints.1900v1
 comments: true
 ---
 
