@@ -1,6 +1,6 @@
 ---
 layout: publication
-title:  "ROCker metagenomic reads detection"
+title:  "ROCker"
 date:   2017-02-01
 excerpt: "ROCker: accurate detection and quantification of target genes in short-read metagenomic data sets by modeling sliding-window bitscores."
 authors: 'Orellana LH•, Rodriguez-R LM•, Konstantinidis KT.'

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title:  "Nonpareil Coverage"
+title:  "Nonpareil"
 date:   2013-10-01
 excerpt: "Nonpareil: a redundancy-based approach to assess the level of coverage in metagenomic datasets."
 authors: 'Rodriguez-R LM, Konstantinidis KT.'
