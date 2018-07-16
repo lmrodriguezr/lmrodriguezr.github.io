@@ -6,9 +6,6 @@ comments: false
 category: About
 ---
 
-For additional information, see also [my ORCID profile](http://orcid.org/0000-0001-7603-3093).
-
-
 ## Best Ph.D. Thesis Award
 2017, **Sigma Xi, Georgia Tech Chapter**, Atlanta, USA.
 
