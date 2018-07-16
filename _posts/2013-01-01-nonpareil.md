@@ -23,5 +23,5 @@ The [original publication of Nonpareil](/publication/nonpareil-coverage)
 described the base algorithm as well as the statistical basis for coverage
 estimation based on redundancy. The *k*-mer kernel and the diversity index are
 described in the [Nonpareil 3 manuscript](/publication/nonpareil-3). Additional
-biological and statistical context as well as practical relevance is
-[discussed on a coverage commentary](/publication/coverage-matters).
+biological and statistical context as well as practical relevance are
+[discussed commentary on coverage](/publication/coverage-matters).
