@@ -1,7 +1,7 @@
 ---
 layout: software
 title:  "Enveomics Collection"
-date:   2015-01-01
+date:   2014-01-01
 excerpt: "The Microbial Genomes Atlas"
 category: Software
 tag:
