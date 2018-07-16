@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About me
-tags: [about]
+title: Profile at a glance
 date: 2018-07-08
 comments: false
+category: about
 ---
-
-{% include about-tabs.html %}
 
 ## Microbial Ecology & Evolution
 My main research interest is the understanding of **eco-evolutionary principles** governing microbial communities: primary evolutionary and ecologic forces shaping **populations** and their **metabolic potential**, their **interactions** with other microbial species, their **hosts**, and the **environment**, and the role of **stochasticity**.

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Education
-tags: [about]
 date: 2018-07-16
 comments: false
+category: about
 ---
 
 {% include about-tabs.html %}
