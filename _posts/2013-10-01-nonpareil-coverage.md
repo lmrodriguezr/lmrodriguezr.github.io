@@ -12,6 +12,7 @@ tag:
 - statistics
 - coverage
 doi: 10.1093/bioinformatics/btt584
+software: nonpareil
 comments: true
 ---
 

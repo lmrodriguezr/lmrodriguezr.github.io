@@ -41,8 +41,12 @@ layout: compress
           </a>
           {% if page.doi %}
           <a href='https://doi.org/{{page.doi}}' target=_blank class="btn">
-              <i class="far fa-fw fa-file-alt"></i>
-              Full Text
+            <i class="far fa-fw fa-file-alt"></i> Full Text
+          </a>
+          {% endif %}
+          {% if page.software %}
+          <a href='{{ site.url }}/software/{{ page.software }}' class='btn zoombtn'>
+            <i class='fas fa-fw fa-code'></i> Software
           </a>
           {% endif %}
         </div>

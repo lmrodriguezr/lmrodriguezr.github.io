@@ -13,6 +13,7 @@ tag:
 - microbial ecology
 - web app
 doi: 10.1093/nar/gky467
+software: miga
 comments: true
 ---
 
