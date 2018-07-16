@@ -6,14 +6,7 @@ date: 2018-07-08
 comments: false
 ---
 
-<hr class='hr-line'>
-<center>
-  <a href='https://scholar.google.com/citations?user=NflBi1cAAAAJ&hl=en' class='btn'>Google Scholar</a>
-  <a href='http://orcid.org/0000-0001-7603-3093' class='btn'>ORCID</a>
-  <a href='https://www.researchgate.net/profile/Luis_Rodriguez-R' class='btn'>ResearchGate</a>
-  <a href='https://publons.com/a/326532' class='btn'>Publons</a>
-</center>
-<hr class='hr-line'>
+{% include about-tabs.html %}
 
 ## Microbial Ecology & Evolution
 My main research interest is the understanding of **eco-evolutionary principles** governing microbial communities: primary evolutionary and ecologic forces shaping **populations** and their **metabolic potential**, their **interactions** with other microbial species, their **hosts**, and the **environment**, and the role of **stochasticity**.
