@@ -33,43 +33,43 @@
         background-color: $white;
         color: $success;
       }
-    }
-    &.btn-warning {
-      background-color: $warning;
+  }
+  &.btn-warning {
+    background-color: $warning;
+    color: $white;
+    border-color: $warning;
+    &:visited {
       color: $white;
-      border-color: $warning;
-      &:visited {
-        color: $white;
-      }
-      &:hover {
-        background-color: $white;
-        color: $warning;
-      }
     }
-    &.btn-danger {
-      background-color: $danger;
+    &:hover {
+      background-color: $white;
+      color: $warning;
+    }
+  }
+  &.btn-danger {
+    background-color: $danger;
+    color: $white;
+    border-color: $danger;
+    &:visited {
       color: $white;
-      border-color: $danger;
-      &:visited {
-        color: $white;
-      }
-      &:hover {
-        background-color: $white;
-        color: $danger;
-      }
     }
-    &.btn-info {
-      background-color: $info;
+    &:hover {
+      background-color: $white;
+      color: $danger;
+    }
+  }
+  &.btn-info {
+    background-color: $info;
+    color: $white;
+    border-color: $info;
+    &:visited {
       color: $white;
-      border-color: $info;
-      &:visited {
-        color: $white;
-      }
-      &:hover {
-        background-color: $white;
-        color: $info;
-      }
     }
+    &:hover {
+      background-color: $white;
+      color: $info;
+    }
+  }
 }
 .title .btn {
     margin: 10px;
@@ -168,7 +168,7 @@ figure {
   }
 }
 svg:not(:root) {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 // keyboard tag
