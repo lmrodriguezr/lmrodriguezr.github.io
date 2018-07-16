@@ -39,10 +39,10 @@ layout: compress
               <li class="wow fadeInLeft card" data-wow-duration="1.5s">
                 <a class="zoombtn card-title" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                 <div class='card-under-title'>
-                  {% if post.publication %}<a href='{{ site.url }}/publication/{{ post.publication }}'><i class='far fa-fw fa-file-alt'></i></a>{% endif %}
-                  {% if post.github %}<a href='https://github.com/{{ post.github }}' target='_blank'><i class='fab fa-fw fa-github'></i></a>{% endif %}
-                  {% if post.gem %}<a href='https://rubygems.org/gems/{{ post.gem }}' target='_blank'><i class='fas fa-fw fa-gem'></i></a>{% endif %}
-                  {% if post.r_package %}<a href='https://cran.r-project.org/packages={{ post.r_package }}' target='_blank'><i class='fab fa-fw fa-r-project'></i></a>{% endif %}
+                  {% if post.publication %}<a href='{{ site.url }}/publication/{{ post.publication }}' title='Publication'><i class='far fa-fw fa-file-alt'></i></a>{% endif %}
+                  {% if post.github %}<a href='https://github.com/{{ post.github }}' target='_blank' title='GitHub'><i class='fab fa-fw fa-github'></i></a>{% endif %}
+                  {% if post.gem %}<a href='https://rubygems.org/gems/{{ post.gem }}' target='_blank' title='Gem'><i class='fas fa-fw fa-gem'></i></a>{% endif %}
+                  {% if post.r_package %}<a href='https://cran.r-project.org/packages={{ post.r_package }}' target='_blank' title='R Package'><i class='fab fa-fw fa-r-project'></i></a>{% endif %}
                   <a class='zoombtn' href='{{ site.url }}{{ post.url }}'><i class='fas fa-fw fa-angle-right'></i></a>
                 </div>
                 <p>{{ post.excerpt }}</p>
