@@ -32,14 +32,14 @@ disqus_url:         'rodriguez-r.com'
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            'LuisMRodriguezR'
-  #analytics:
+  analytics:        'UA-122331540-1'
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:             'lmrodriguezr@gmail.com'
+email:              'lmrodriguezr@gmail.com'
 twitter:            '_lrr_'
 #facebook:           username
 github-url:         'lmrodriguezr'
