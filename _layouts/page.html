@@ -21,10 +21,11 @@ layout: compress
             <i class="fa fa-fw fa-home"></i>
           </a>
           {% if page.category == 'About' %}
-          <a href='{{ site.url }}/about' class='btn'>Profile</a>
-          {% for post in site.categories.About %}
-          <a href='{{ site.url }}{{ post.url }}' class='btn'>{{ post.title | first }}</a>
-          {% endfor %}
+          <a href='{{ site.url }}/about/' class='btn'>Profile</a>
+          <a href='{{ site.url }}/about/education' class='btn'>Education</a>
+          <a href='{{ site.url }}/about/experience' class='btn'>Experience</a>
+          <a href='{{ site.url }}/about/awards' class='btn'>Awards</a>
+          <!--<a href='{{ site.url }}/about/personal' class='btn'>Personal</a>-->
           {% endif %}
         </div>
         {{ content }}
