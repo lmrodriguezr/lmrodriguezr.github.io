@@ -10,45 +10,50 @@ layout: compress
     {% include head.html %}
 </head>
 <body>
-    {% include nav.html %}
-    <!-- Header -->
-    <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
-            <div class="content">
-                <div class="post-title {% if page.feature %} feature {% endif %}">
-                    <h1>{{ page.title }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>
-                    {% if site.reading_time %}
-                    <p class="reading-time">
-                      <i class="far fa-clock"></i>
-                      {% include read-time.html %}
-                    </p><!-- /.entry-reading-time -->
-                    {% endif %}
-                    <a class="btn zoombtn" href="{{site.url}}">
-                      <i class="fas fa-fw fa-home"></i>
-                    </a>
-                    <a class="btn zoombtn" href="{{site.url}}/software/">
-                      <i class="far fa-fw fa-code"></i>
-                    </a>
-                    {% if page.github %}
-                    <a class="btn" href="https://github.com/{{ page.github }}">
-                      <i class="fab fa-fw fa-github"></i> GitHub
-                    </a>
-                    {% endif %}
-                    {% if page.github %}
-                    <a class="btn" href="https://github.com/{{ page.gem }}">
-                      <i class="fas fa-fw fa-gem"></i> Gem
-                    </a>
-                    {% endif %}
-                </div>
-                {{ content }}
-                <div class="entry-meta">
-                {% include meta.html %}
-                </div>
-            </div>
+  {% include nav.html %}
+  <!-- Header -->
+  <header class="header" role="banner">
+    <div class="wrapper animated fadeIn">
+      <div class="content">
+        <div class="post-title {% if page.feature %} feature {% endif %}">
+          <h1>{{ page.title }}</h1>
+          <h4>{{ page.date | date_to_string }}</h4>
+          {% if site.reading_time %}
+          <p class="reading-time">
+            <i class="far fa-clock"></i>
+            {% include read-time.html %}
+          </p><!-- /.entry-reading-time -->
+          {% endif %}
+          <a class="btn zoombtn" href="{{site.url}}">
+            <i class="fas fa-fw fa-home"></i>
+          </a>
+          <a class="btn zoombtn" href="{{site.url}}/software/">
+            <i class="far fa-fw fa-code"></i>
+          </a>
+          {% if page.github %}
+          <a class="btn" href="https://github.com/{{ page.github }}" target='_blank'>
+            <i class="fab fa-fw fa-github"></i> GitHub
+          </a>
+          {% endif %}
+          {% if page.github %}
+          <a class="btn" href="https://github.com/{{ page.gem }}" target='_blank'>
+            <i class="fas fa-fw fa-gem"></i> Gem
+          </a>
+          {% endif %}
+          {% if page.r_package %}
+          <a class="btn" href="https://cran.r-project.org/packages={{ page.r_package }}" target='_blank'>
+            <i class="fab fa-fw fa-r-project"></i> R package
+          </a>
+          {% endif %}
         </div>
-        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
-    </header>
-    {% include scripts.html %}
+        {{ content }}
+        <div class="entry-meta">
+        {% include meta.html %}
+        </div>
+      </div>
+    </div>
+    {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+  </header>
+  {% include scripts.html %}
 </body>
 </html>
