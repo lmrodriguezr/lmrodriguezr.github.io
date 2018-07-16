@@ -34,8 +34,10 @@ layout: compress
                 <div class="post-list">
                     {% for post in site.categories.Publication %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li class="wow fadeInLeft card" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <div class='card-under-title'>
+                            </div>
                             <p>
                               {{post.authors}} <b>{{ post.excerpt }}</b> <em>{{post.citation}}</em>
                               {% if post.equal_contribution %}• Equal contribution.{% endif %}

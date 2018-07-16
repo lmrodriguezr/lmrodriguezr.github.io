@@ -72,16 +72,22 @@
   }
 }
 .title .btn {
-    margin: 10px;
-    @include font-rem(16);
-    font-weight:300;
+  margin: 10px;
+  @include font-rem(16);
+  font-weight:300;
 }
 .post-list {
-    .btn {
-        @include font-rem(14);
-    }
+  .btn {
+    @include font-rem(14);
+  }
+	.card {
+		border-left: 3px solid $color_gray;
+		p {
+			margin-top: 0;
+		}
+	}
 }
-.card-foot {
+.card-under-title {
 	border-top: 1px solid $color_gray;
 	text-align: right;
 }
