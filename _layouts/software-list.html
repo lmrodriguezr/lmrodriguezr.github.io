@@ -22,14 +22,19 @@ layout: compress
                     </a>
                 </div>
                 <hr class='hr-line'/>
-                <center><h2>Coming soon</h2></center>
-                <hr class='hr-line'/>
                 <div class="post-list">
                     {% for post in site.categories.Software %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
+                            <p>
+                              {{ post.excerpt }}
+                              {% if post.github %}
+                              <a href='https://github.com/{{ post.github }}' class='btn btn-sm' target='_blank'>
+                                <i class='fa fa-fw fa-github'></i>
+                              </a>
+                              {% endif %}
+                            </p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
