@@ -38,6 +38,7 @@ layout: compress
                   {% if post.github %}<a href='https://github.com/{{ post.github }}' target='_blank'><i class='fab fa-fw fa-github'></i></a>{% endif %}
                   {% if post.gem %}<a href='https://rubygems.org/gems/{{ post.gem }}' target='_blank'><i class='fas fa-fw fa-gem'></i></a>{% endif %}
                   {% if post.r_package %}<a href='https://cran.r-project.org/packages={{ post.r_package }}' target='_blank'><i class='fab fa-fw fa-r-project'></i></a>{% endif %}
+                  <a class='zoombtn' href='{{ site.url }}{{ post.url }}'><i class='fas fa-fw fa-angle-right'></i></a>
                 </div>
                 <p>{{ post.excerpt }}</p>
               </li>

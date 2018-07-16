@@ -27,7 +27,9 @@ layout: compress
               <ul>
                 <li class="wow fadeInLeft card" data-wow-duration="1.5s">
                   <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                  <div class='card-under-title'></div>
+                  <div class='card-under-title'>
+                    <a class='zoombtn' href='{{ site.url }}{{ post.url }}'><i class='fas fa-fw fa-angle-right'></i></a>
+                  </div>
                   <p>{{ post.excerpt }}</p>
                 </li>
               </ul>

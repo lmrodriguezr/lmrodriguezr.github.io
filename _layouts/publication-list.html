@@ -10,51 +10,49 @@ layout: compress
     {% include head.html %}
 </head>
 <body>
-    {% include nav.html %}
-    <!-- Header -->
-    <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
-            <div class="content">
-                <div class="post-title">
-                    <h1>{{ page.title }}</h1>
-                    <a class="btn zoombtn" href="{{site.url}}">
-                        <i class="fas fa-fw fa-home"></i>
-                    </a>
-                </div>
-                <hr class=hr-line>
-                <p>
-                  The following list includes the published works where I am
-                  the leading author (including equal contributions). For a
-                  comprehensive list of my publications and citation statistics
-                  see <a href='https://scholar.google.com/citations?user=NflBi1cAAAAJ' target=_blank>my Google Scholar profile</a>.
-                  For a list of my journal reviews see
-                  <a href='https://publons.com/a/326532' target=_blank>my Publons profile</a>.
-                </p>
-                <hr class=hr-line>
-                <div class="post-list">
-                    {% for post in site.categories.Publication %}
-                    <ul>
-                        <li class="wow fadeInLeft card" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <div class='card-under-title'>
-                            </div>
-                            <p>
-                              {{post.authors}} <b>{{ post.excerpt }}</b> <em>{{post.citation}}</em>
-                              {% if post.equal_contribution %}• Equal contribution.{% endif %}
-                            </p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read Abstract</a>
-                            {% if post.doi %}
-                              <a href="https://doi.org/{{ post.doi }}" class="btn zoombtn" target=_blank>Full Text</a>
-                            {% endif %}
-                        </li>
-                    </ul>
-                    {% endfor %}
-                </div>
-            </div>
+  {% include nav.html %}
+  <!-- Header -->
+  <header class="header" role="banner">
+    <div class="wrapper animated fadeIn">
+      <div class="content">
+        <div class="post-title">
+            <h1>{{ page.title }}</h1>
+            <a class="btn zoombtn" href="{{site.url}}">
+                <i class="fas fa-fw fa-home"></i>
+            </a>
         </div>
-    </header>
-    {% include scripts.html %}
-    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
-    <script type="text/javascript">(new WOW).init();</script>
+        <hr class=hr-line>
+        <p>
+          The following list includes the published works where I am
+          the leading author (including equal contributions). For a
+          comprehensive list of my publications and citation statistics
+          see <a href='https://scholar.google.com/citations?user=NflBi1cAAAAJ' target=_blank>my Google Scholar profile</a>.
+          For a list of my journal reviews see
+          <a href='https://publons.com/a/326532' target=_blank>my Publons profile</a>.
+        </p>
+        <hr class=hr-line>
+        <div class="post-list">
+          {% for post in site.categories.Publication %}
+          <ul>
+            <li class="wow fadeInLeft card" data-wow-duration="1.5s">
+              <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+              <div class='card-under-title'>
+                {% if post.doi %}<a href="https://doi.org/{{ post.doi }}" class="btn zoombtn" target=_blank><i class='far fa-fw fa-file-alt'></i></a>{% endif %}
+                <a class='zoombtn' href='{{ site.url }}{{ post.url }}'><i class='fas fa-fw fa-angle-right'></i></a>
+              </div>
+              <p>
+                {{post.authors}} <b>{{ post.excerpt }}</b> <em>{{post.citation}}</em>
+                {% if post.equal_contribution %}• Equal contribution.{% endif %}
+              </p>
+            </li>
+          </ul>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </header>
+  {% include scripts.html %}
+  <script src="{{ site.url }}/assets/js/wow.min.js"></script>
+  <script type="text/javascript">(new WOW).init();</script>
 </body>
 </html>
