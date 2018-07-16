@@ -55,9 +55,12 @@ h3.title a {
 			text-decoration: none;
 			color: $color_shark;
 			font-weight: bolder;
-            &:hover {
-                color: $red;
-            }
+      &:hover {
+          color: $red;
+      }
+			.fa-fw {
+				font-weight: normal;
+			}
 		}
 		p {
 			font-weight: lighter;
