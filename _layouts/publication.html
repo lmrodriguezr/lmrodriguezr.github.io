@@ -15,7 +15,7 @@ layout: compress
   <header class="header" role="banner">
     <div class="wrapper animated fadeIn">
       <div class="content">
-        <div class="post-title feature">
+        <div class="post-title {% if page.feature} feature {% endif %}">
           <h1>{{ page.excerpt }}</h1>
           <h4>
             {{ page.authors }}
@@ -33,10 +33,10 @@ layout: compress
                   style="display:inline-block;"></div>
           </div><br/>
           {% endif %}
-          <a class="btn zoombtn" href="{{site.url}}">
+          <a class="btn btn-muted zoombtn" href="{{site.url}}">
             <i class="fas fa-fw fa-home"></i>
           </a>
-          <a class="btn zoombtn" href="{{site.url}}/publications/">
+          <a class="btn btn-muted zoombtn" href="{{site.url}}/publications/">
             <i class="fas fa-fw fa-book"></i>
           </a>
           {% if page.doi %}

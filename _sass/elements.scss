@@ -70,6 +70,9 @@
       color: $info;
     }
   }
+	&.btn-muted {
+		background-color: $muted;
+	}
 }
 .title .btn {
   margin: 10px;

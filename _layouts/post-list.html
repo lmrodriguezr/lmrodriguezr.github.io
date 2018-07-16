@@ -17,7 +17,7 @@ layout: compress
       <div class="content">
         <div class="post-title">
           <h1>{{ page.title }}</h1>
-          <a class="btn zoombtn" href="{{site.url}}">
+          <a class="btn btn-muted zoombtn" href="{{site.url}}">
             <i class="fas fa-fw fa-home"></i>
           </a>
         </div>
@@ -30,6 +30,14 @@ layout: compress
                   <div class='card-under-title'>
                     <a class='zoombtn' href='{{ site.url }}{{ post.url }}'><i class='fas fa-fw fa-angle-right'></i></a>
                   </div>
+                  <a class="btn zoombtn" href="{{ site.url }}/publications">
+                    <i class='fas fa-fw fa-book'></i>
+                    Publications
+                  </a>
+                  <a class="btn zoombtn" href="{{ site.url }}/software">
+                    <i class='fas fa-fw fa-code'></i>
+                    Software
+                  </a>
                   <p>{{ post.excerpt }}</p>
                 </li>
               </ul>
