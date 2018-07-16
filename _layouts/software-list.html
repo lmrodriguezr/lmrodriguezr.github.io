@@ -18,7 +18,7 @@ layout: compress
                 <div class="post-title">
                     <h1>{{ page.title }}</h1>
                     <a class="btn zoombtn" href="{{site.url}}">
-                        <i class="fa fa-fw fa-home"></i>
+                        <i class="fas fa-fw fa-home"></i>
                     </a>
                 </div>
                 <hr class='hr-line'/>
@@ -30,8 +30,8 @@ layout: compress
                             <p>
                               {{ post.excerpt }}
                               <hr class='hr-line'/>
-                              {% if post.github %}<a href='https://github.com/{{ post.github }}' target='_blank'><i class='fa fa-fw fa-github'></i></a>{% endif %}
-                              {% if post.gem %}<a href='https://rubygems.org/gems/{{ post.github }}' target='_blank'><i class='fa fa-fw fa-gem'></i></a>{% endif %}
+                              {% if post.github %}<a href='https://github.com/{{ post.github }}' target='_blank'><i class='fab fa-fw fa-github'></i></a>{% endif %}
+                              {% if post.gem %}<a href='https://rubygems.org/gems/{{ post.github }}' target='_blank'><i class='fas fa-fw fa-gem'></i></a>{% endif %}
                             </p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
