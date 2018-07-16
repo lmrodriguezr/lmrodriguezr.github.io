@@ -3,6 +3,7 @@ layout: page
 title: Awards & Distinctions
 date: 2018-07-16
 comments: false
+category: About
 ---
 
 For additional information, see also [my ORCID profile](http://orcid.org/0000-0001-7603-3093).

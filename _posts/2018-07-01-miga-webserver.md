@@ -1,4 +1,5 @@
 ---
+layout: publication
 title:  "MiGA Webserver"
 date:   2018-07-01
 excerpt: "The Microbial Genomes Atlas (MiGA) webserver: taxonomic and gene diversity analysis of Archaea and Bacteria at the whole genome level."

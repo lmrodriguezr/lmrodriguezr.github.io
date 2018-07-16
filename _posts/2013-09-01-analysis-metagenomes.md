@@ -1,4 +1,5 @@
 ---
+layout: publication
 title:  "Analysis of Metagenomes"
 date:   2013-09-01
 excerpt: "A user’s guide to quantitative and comparative analysis of metagenomic datasets."

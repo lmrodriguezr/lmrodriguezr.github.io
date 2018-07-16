@@ -25,18 +25,6 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-defaults:
-  -
-    scope:
-      path:         'about'
-    values:
-      about_page:   true
-      category:     about
-  -
-    scope:
-      path:         'publication'
-    values:
-      layout:       publication
 
 # Comments
 disqus_shortname:   'rodriguez-r'

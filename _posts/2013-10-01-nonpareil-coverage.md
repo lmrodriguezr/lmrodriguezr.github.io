@@ -1,4 +1,5 @@
 ---
+layout: publication
 title:  "Nonpareil"
 date:   2013-10-01
 excerpt: "Nonpareil: a redundancy-based approach to assess the level of coverage in metagenomic datasets."

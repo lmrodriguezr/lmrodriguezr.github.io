@@ -3,6 +3,7 @@ layout: page
 title: Profile at a glance
 date: 2018-07-08
 comments: false
+category: About
 ---
 
 ## Microbial Ecology & Evolution
