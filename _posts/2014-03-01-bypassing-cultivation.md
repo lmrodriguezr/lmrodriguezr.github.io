@@ -5,7 +5,7 @@ date:   2014-03-01
 excerpt: "Bypassing cultivation to identify bacterial species."
 authors: 'Rodriguez-R LM, Konstantinidis KT.'
 citation: 'Microbe 9(3):111-118. 2014.'
-category: publication
+category: Publication
 tag:
 - divulgation
 - metagenomics

@@ -6,7 +6,7 @@ excerpt: "ROCker: accurate detection and quantification of target genes in short
 authors: 'Orellana LH•, Rodriguez-R LM•, Konstantinidis KT.'
 citation: 'Nucleic Acids Research 45(3):e14. 2017.'
 equal_contribution: true
-category: publication
+category: Publication
 tag:
 - metagenomics
 - software

@@ -5,7 +5,7 @@ date:   2012-10-01
 excerpt: "Genomes-based phylogeny of the genus Xanthomonas."
 authors: 'Rodriguez-R LM, Grajales A, Arrieta-Ortiz ML, Salazar C, Restrepo S, Bernal A.'
 citation: 'BMC Microbiology 12:43. 2012.'
-category: publication
+category: Publication
 tag:
 - plan pathology
 - phylogenomics

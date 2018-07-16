@@ -6,7 +6,7 @@ excerpt: "Discovery of Phytophthora infestans genes expressed in planta through 
 authors: 'Sierra R•, Rodriguez-R LM•, Chaves D, Pinzón A, Grajales A, Rojas A, Mutis G, Cárdenas M, Burbano D, Jiménez P, Bernal A, Restrepo S.'
 citation: 'PLoS ONE 5(3): e9847. 2010.'
 equal_contribution: true
-category: publication
+category: Publication
 tag:
 - plan pathology
 - transcriptomics
