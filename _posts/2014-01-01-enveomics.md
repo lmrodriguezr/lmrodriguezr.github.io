@@ -2,7 +2,7 @@
 layout: software
 title:  "Enveomics Collection"
 date:   2014-01-01
-excerpt: "The Microbial Genomes Atlas"
+excerpt: "Scripts and Libraries for Everyday Bioinformatics"
 category: Software
 tag:
 - metagenomics

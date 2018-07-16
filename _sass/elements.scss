@@ -81,6 +81,10 @@
         @include font-rem(14);
     }
 }
+.card-foot {
+	border-top: 1px solid $color_gray;
+	text-align: right;
+}
 
 // hr break
 hr {
