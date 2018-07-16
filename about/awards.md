@@ -3,27 +3,25 @@ layout: page
 title: Awards & Distinctions
 date: 2018-07-16
 comments: false
-category: about
 ---
-
-{% include about-tabs.html %}
 
 For additional information, see also [my ORCID profile](http://orcid.org/0000-0001-7603-3093).
 
-## Sigma Xi, Georgia Tech Chapter
-2017, Atlanta, USA. **2017 Best Ph.D. Thesis Award**.
 
-## International Society for Microbial Ecology (ISME)
-2016, Montréal, Canada. **ISME Travel Award**, ISME 16.
+## 2017 Best Ph.D. Thesis Award
+2017, **Sigma Xi, Georgia Tech Chapter**, Atlanta, USA.
 
-## Georgia Institute of Technology, School of Biology
-2015, Atlanta, USA. **School of Biology Graduate Excellence Award**.
+## ISME Travel Award
+2016, **International Society for Microbial Ecology (ISME)**, ISME 16, Montréal, Canada.
 
-## 2015 Région Languedoc Roussillon (now Occitanie), France
-2010, Montpellier, France. **Fellowship granted by the region to outstanding international students**.
+## School of Biology Graduate Excellence Award
+2015, **Georgia Institute of Technology, School of Biology**, Atlanta, USA.
 
-## Evaluation-Orientation of Scientific Cooperation Program (ECOS)
-2009, Montpellier, France. **Scientific Mission** to Institut de Recherche pour le Développement (IRD).
+## Fellowship granted by the region to outstanding international students
+2010, **Région Languedoc Roussillon (now Occitanie)**, Montpellier, France.
 
-## Universidad Nacional de Colombia
-2004, Bogotá, Colombia. **Award _Matrícula de Honor_**.
+## Scientific Mission
+2009, **Evaluation-Orientation of Scientific Cooperation Program (ECOS)**, Institut de Recherche pour le Développement (IRD), Montpellier, France.
+
+## Award _Matrícula de Honor_
+2004, **Universidad Nacional de Colombia**, Bogotá, Colombia.
