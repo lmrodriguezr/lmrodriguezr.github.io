@@ -27,7 +27,6 @@
 }
 .post-title {
 	text-align: center;
-	font-weight: bold;
 	margin-bottom: 3rem;
 }
 
@@ -39,7 +38,7 @@ h3.title a {
 
 // post list
 .post-list {
-    text-align: left;
+  text-align: left;
 	ul {
 		list-style: none;
 		padding-left: 0;
@@ -81,9 +80,9 @@ blockquote {
 
 // figcaption
 figcaption {
-    padding-top: 10px;
-    @include font(14);
-    color: $color_stack;
+  padding-top: 10px;
+  @include font(14);
+  color: $color_stack;
 }
 
 // links
@@ -114,17 +113,17 @@ p code,
 li code,
 p pre,
 li pre {
-    @include font(14);
-    background-color: $color_gray;
-    border: 1px solid $color_mischka;
-    @include rounded(4px);
-    margin: 0 2px;
-    padding: 0 5px;
+  @include font(14);
+  background-color: $color_gray;
+  border: 1px solid $color_mischka;
+  @include rounded(4px);
+  margin: 0 2px;
+  padding: 0 5px;
 }
 li .highlight code,
 li .highlight pre {
-    background-color: transparent;
-    border: 0;
+  background-color: transparent;
+  border: 0;
 }
 
 // table
@@ -134,16 +133,16 @@ table {
 
 // notice
 .notice {
-    margin-top: 1.5em;
-    padding: .5em 1em;
-    text-indent: 0;
-    @include font-rem(14);
-    background-color: $color_gray;
-    border: 1px solid $color_pink_swan;
-    @include rounded(3px);
+  margin-top: 1.5em;
+  padding: .5em 1em;
+  text-indent: 0;
+  @include font-rem(14);
+  background-color: $color_gray;
+  border: 1px solid $color_pink_swan;
+  @include rounded(3px);
 }
 
 // description title
 dt {
-    font-weight: bolder;
+  font-weight: bolder;
 }
