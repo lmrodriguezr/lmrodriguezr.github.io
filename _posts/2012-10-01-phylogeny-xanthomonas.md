@@ -8,6 +8,7 @@ citation: 'BMC Microbiology 12:43. 2012.'
 category: Publication
 tag:
 - plan pathology
+- software
 - phylogenomics
 - genomics
 - evolution

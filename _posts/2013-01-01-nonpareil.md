@@ -6,9 +6,10 @@ excerpt: "Metagenomic Read Coverage and Sequence Diversity"
 category: Software
 tag:
 - metagenomics
-- software
 - statistics
 - coverage
+- c++
+- r
 publication: nonpareil-3
 github: lmrodriguezr/nonpareil
 r_package: nonpareil

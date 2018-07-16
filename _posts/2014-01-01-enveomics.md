@@ -7,8 +7,10 @@ category: Software
 tag:
 - metagenomics
 - genomics
-- software
 - statistics
+- ruby
+- perl
+- r
 publication: enveomics-collection
 github: lmrodriguezr/enveomics
 r_package: enveomics.R
