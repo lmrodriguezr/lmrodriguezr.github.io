@@ -1,5 +1,4 @@
 ---
-layout: publication
 title:  "Enveomics Collection"
 date:   2016-03-01
 excerpt: "The enveomics collection: a toolbox for specialized analyses of microbial genomes and metagenomes."

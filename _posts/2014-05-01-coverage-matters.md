@@ -1,5 +1,4 @@
 ---
-layout: publication
 title:  "Metagenomic Coverage"
 date:   2014-05-01
 excerpt: "Estimating coverage in metagenomic data sets and why it matters."

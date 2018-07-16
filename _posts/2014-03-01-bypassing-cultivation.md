@@ -1,5 +1,4 @@
 ---
-layout: publication
 title:  "Bypassing cultivation"
 date:   2014-03-01
 excerpt: "Bypassing cultivation to identify bacterial species."
