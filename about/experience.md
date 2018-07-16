@@ -3,7 +3,6 @@ layout: page
 title: Professional Experience
 date: 2018-07-16
 comments: false
-category: about
 ---
 
 For additional information, see also [my ORCID profile](http://orcid.org/0000-0001-7603-3093).

@@ -20,7 +20,7 @@ layout: compress
           <a class="btn zoombtn" href="{{ site.url }}">
             <i class="fa fa-fw fa-home"></i>
           </a>
-          {% if page.categories.include? "about" %}
+          {% if page.about_page %}
           {% for post in site.categories.about %}
           <a href='{{ site.url }}{{ post.url }}' class='btn'>{{ post.title }}</a>
           {% endfor %}

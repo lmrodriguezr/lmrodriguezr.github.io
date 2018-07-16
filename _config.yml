@@ -25,6 +25,12 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+defaults:
+  -
+    scope:
+      path:         '/about/*'
+    values:
+      about_page:   true
 
 # Comments
 disqus_shortname:   'rodriguez-r'
