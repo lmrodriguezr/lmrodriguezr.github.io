@@ -30,6 +30,11 @@ layout: compress
           <a class="btn zoombtn" href="{{site.url}}/software/">
             <i class="fas fa-fw fa-code"></i>
           </a>
+          {% if page.publication %}
+          <a class="btn" href="{{ site.url }}/publication/{{ page.publication }}">
+            <i class="far fa-fw fa-file-alt"></i> Publication
+          </a>
+          {% endif %}
           {% if page.github %}
           <a class="btn" href="https://github.com/{{ page.github }}" target='_blank'>
             <i class="fab fa-fw fa-github"></i> GitHub
