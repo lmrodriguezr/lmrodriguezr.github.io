@@ -38,20 +38,20 @@ layout: compress
         <hr class=hr-line>
         <div class="post-list">
           {% for post in site.categories.Publication %}
-          <ul>
-            <li class="wow fadeInLeft card" data-wow-duration="1.5s">
-              <a class="zoombtn card-title" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-              <div class='card-under-title'>
-                {% if post.doi %}<a href="https://doi.org/{{ post.doi }}" title='Full text' target=_blank><i class='far fa-fw fa-file-alt'></i></a>{% endif %}
-                {% if post.software %}<a class='zoombtn' href='{{ site.url }}/software/{{ post.software }}' title='Software'><i class='fas fa-fw fa-code'></i></a>{% endif %}
-                <a class='zoombtn' href='{{ site.url }}{{ post.url }}'><i class='fas fa-fw fa-angle-right'></i></a>
-              </div>
-              <p>
-                {{post.authors}} <b>{{ post.excerpt }}</b> <em>{{post.citation}}</em>
-                {% if post.equal_contribution %}• Equal contribution.{% endif %}
-              </p>
-            </li>
-          </ul>
+            <ul>
+              <li class="wow fadeInLeft card" data-wow-duration="1.5s">
+                <a class="zoombtn card-title" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                <div class='card-under-title'>
+                  {% if post.doi %}<a href="https://doi.org/{{ post.doi }}" title='Full text' target=_blank><i class='far fa-fw fa-file-alt'></i></a>{% endif %}
+                  {% if post.software %}<a class='zoombtn' href='{{ site.url }}/software/{{ post.software }}' title='Software'><i class='fas fa-fw fa-code'></i></a>{% endif %}
+                  <a class='zoombtn' href='{{ site.url }}{{ post.url }}'><i class='fas fa-fw fa-angle-right'></i></a>
+                </div>
+                <p>
+                  {{post.authors}} <b>{{ post.excerpt }}</b> <em>{{post.citation}}</em>
+                  {% if post.equal_contribution %}• Equal contribution.{% endif %}
+                </p>
+              </li>
+            </ul>
           {% endfor %}
         </div>
       </div>
