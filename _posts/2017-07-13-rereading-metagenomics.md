@@ -7,8 +7,13 @@ tag:
 - metagenomics
 - software
 - statistics
+- microbial ecology
+- commentary
 comments: true
 ---
+
+*An overview of my
+[doctoral dissertation](/publication/tools-ecology-metagenomics).*
 
 There is an estimated 5 nonillion prokaryotic cells on Earth. That is a 5
 followed by 30 zeroes, a number so large that “astronomic” falls short. For
@@ -101,7 +106,7 @@ and contemporary factors affect community assembly in this system[^12]. In
 other words: the environment does select, but there are such things as local
 microbes.
 
-## References:
+## References
 
 [^1]: Baas Becking LGM. 1934. Geobiologie of inleiding tot de milieukunde (W.P. Van Stockum & Zoon, Den Haag).
 
