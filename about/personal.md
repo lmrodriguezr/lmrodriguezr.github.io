@@ -6,4 +6,7 @@ comments: false
 category: About
 ---
 
-## Coming soon
+# Interests
+
+Dancing (Zouk, Salsa, Bachata, Tango, Blues, Ballet), Social Justice
+(intersectional feminism), Theater, and World Religions.

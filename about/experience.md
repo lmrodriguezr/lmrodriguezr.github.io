@@ -9,6 +9,7 @@ category: About
 For additional information, see also [my ORCID profile](http://orcid.org/0000-0001-7603-3093).
 
 ## Georgia Institute of Technology, Atlanta, USA
+- **2018**, Research Engineer, School of Civil and Environmental Engineering
 - **2017-2018**, Postdoctoral Fellow, Konstantinidis Lab
 - **2012-2016**, Research Assistant, Konstantinidis Lab
 - **2011-2012**, Teaching Assistant, Biological Principles, Biology 1510
