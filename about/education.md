@@ -10,7 +10,7 @@ For additional information, see also [my ORCID profile](http://orcid.org/0000-00
 
 ## Ph.D. Bioinformatics (Minor: Biomedical Engineering)
 2011-2016, **Georgia Institute of Technology**, Atlanta, USA.
-Bioinformatic tools for testing microbial  ecology theory in natural environments through metagenomics.
+Bioinformatic tools for testing microbial  ecology theory in natural environments through metagenomics. [More details](/rereading-metagenomics).
 
 ## M.Sc. Applied Informatics (Skills integration, Bioinformatics)
 2010-2011, **Université de Montpellier 2**, Montpellier, France.
