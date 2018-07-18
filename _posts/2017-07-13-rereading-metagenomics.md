@@ -20,9 +20,9 @@ how these species get to live together in the same environment: how are
 communities assembled.
 
 In his seminal 1934 work ‘Geobiology or Introduction to the Science of the
-Environment’, professor L.G.M. Baas Becking wrote about microorganisms that[^1]:
+Environment’, professor L.G.M. Baas Becking wrote about microorganisms:
 
-> Everything is everywhere, but the environment selects
+> Everything is everywhere, but the environment selects[^1]
 
 In this elegantly concise dictum (and throughout his work), Baas Becking
 provided an early version of the ecologic niche concept as the driver of
@@ -103,50 +103,26 @@ microbes.
 
 ## References:
 
-[^1]: Baas Becking LGM. 1934. Geobiologie of inleiding tot de milieukunde
-  (W.P. Van Stockum & Zoon, Den Haag).
+[^1]: Baas Becking LGM. 1934. Geobiologie of inleiding tot de milieukunde (W.P. Van Stockum & Zoon, Den Haag).
 
-[^2]: Rodriguez-R LM, Konstantinidis KT. 2014. Bypassing Cultivation To
-  Identify Bacterial Species. *Microbe*. 9, 111–118.
-  [More details](/publication/bypassing-cultivation).
+[^2]: Rodriguez-R LM, Konstantinidis KT. 2014. Bypassing Cultivation To Identify Bacterial Species. *Microbe*. 9, 111–118. [More details](/publication/bypassing-cultivation).
 
-[^3]: Rodriguez-R LM, Konstantinidis KT. 2014. Estimating coverage in
-  metagenomic data sets and why it matters. *ISME J*.
-  [More details](/publication/coverage-matters).
+[^3]: Rodriguez-R LM, Konstantinidis KT. 2014. Estimating coverage in metagenomic data sets and why it matters. *ISME J*. [More details](/publication/coverage-matters).
 
-[^4]: Luo C, Rodriguez-R LM, Konstantinidis KT. 2013. A user’s guide to
-  quantitative and comparative analysis of metagenomic datasets.
-  *Methods Enzymol*. 531, 525–547.
-  [More details](/publication/analysis-metagenomes).
+[^4]: Luo C, Rodriguez-R LM, Konstantinidis KT. 2013. A user’s guide to quantitative and comparative analysis of metagenomic datasets. *Methods Enzymol*. 531, 525–547. [More details](/publication/analysis-metagenomes).
 
-[^5]: Good IJ. 1953. The Population Frequencies of Species and the Estimation
-  of Population Parameters. *Biometrika*. 40, 237–264.
+[^5]: Good IJ. 1953. The Population Frequencies of Species and the Estimation of Population Parameters. *Biometrika*. 40, 237–264.
 
-[^6]: Chao A. 1984. Nonparametric Estimation of the Number of Classes in a
-  Population. *Scand. J. Stat*. 11, 265–270.
+[^6]: Chao A. 1984. Nonparametric Estimation of the Number of Classes in a Population. *Scand. J. Stat*. 11, 265–270.
 
-[^7]: Chao A, Shen TJ. 2003. Nonparametric estimation of Shannon’s index of
-  diversity when there are unseen species in sample. *Environ. Ecol. Stat*.
-  10, 429–443.
+[^7]: Chao A, Shen TJ. 2003. Nonparametric estimation of Shannon’s index of diversity when there are unseen species in sample. *Environ. Ecol. Stat*. 10, 429–443.
 
-[^8]: Rodriguez-R LM, Konstantinidis KT. 2014. Nonpareil: a redundancy-based
-  approach to assess the level of coverage in metagenomic datasets.
-  *Bioinforma*. Oxf. Engl. 30, 629–635.
-  [More details](/publication/nonpareil-coverage).
+[^8]: Rodriguez-R LM, Konstantinidis KT. 2014. Nonpareil: a redundancy-based approach to assess the level of coverage in metagenomic datasets. *Bioinforma*. Oxf. Engl. 30, 629–635. [More details](/publication/nonpareil-coverage).
 
-[^9]:	Rodriguez-R LM, Gunturu S, Cole JR, Tiedje JM, Konstantinidis KT.
-  2018. Nonpareil 3: Fast Estimation of Metagenomic Coverage and Sequence
-  Diversity. *mSystems* 3(3):e00039-18.
-  [More details](/publication/nonpareil-3).
+[^9]:	Rodriguez-R LM, Gunturu S, Cole JR, Tiedje JM, Konstantinidis KT. 2018. Nonpareil 3: Fast Estimation of Metagenomic Coverage and Sequence Diversity. *mSystems* 3(3):e00039-18. [More details](/publication/nonpareil-3).
 
-[^10]: Shade A, *et al*. 2012. Fundamentals of microbial community resistance
-  and resilience. *Front. Microbiol*. 3, 417.
+[^10]: Shade A, *et al*. 2012. Fundamentals of microbial community resistance and resilience. *Front. Microbiol*. 3, 417.
 
-[^11]: Rodriguez-R LM, *et al*. 2015. Microbial community successional patterns
-  in beach sands impacted by the Deepwater Horizon oil spill. *ISME J*.
-  [More details](/publication/oil-spill)
+[^11]: Rodriguez-R LM, *et al*. 2015. Microbial community successional patterns in beach sands impacted by the Deepwater Horizon oil spill. *ISME J*. [More details](/publication/oil-spill)
 
-[^12]: Rodriguez-R LM, Tsementzi D, Luo C, Hatt JK, Konstantinidis JK.
-  *In preparation*. Biogeography and seasonal variation disentangled in
-  microbial meta-communities of five connected lakes (Chapter VIII of
-  dissertation).
+[^12]: Rodriguez-R LM, Tsementzi D, Luo C, Hatt JK, Konstantinidis JK. *In preparation*. Biogeography and seasonal variation disentangled in microbial meta-communities of five connected lakes (Chapter VIII of dissertation).
