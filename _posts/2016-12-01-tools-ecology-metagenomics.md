@@ -3,7 +3,7 @@ layout: publication
 title:  "Bioinformatics and Microbial Ecology"
 date:   2016-12-01
 excerpt: "Bioinformatic tools for testing microbial ecology theory in natural environments through metagenomics."
-authors: 'Rodriguez-R LM'
+authors: 'Rodriguez-R LM.'
 citation: 'Dissertation, Doctor of Philosophy in Bioinformatics, Georgia Institute of Technology, School of Biological Sciences. 2016.'
 category: Publication
 tag:
