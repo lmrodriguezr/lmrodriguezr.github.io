@@ -148,7 +148,7 @@ You see, *overwhelming evidence* of evolutionary relationships as ancient as
 the origin of the domains of life
 (or superkingdoms, depending on your systematics) is never
 that "overwhelming".
-This is the subject of heated discussions with *sincerely held believes*,
+This is the subject of heated discussions with *sincerely held beliefs*,
 but when it comes down to solid data we should all admit that there is
 (however much we discredit our contradictor of choice) defensible
 evidence of pretty much any configuration at the root of the tree of life.
