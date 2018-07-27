@@ -7,7 +7,7 @@ tag:
 - philosophy
 - taxonomy
 - phylogeny
-- divulgation
+- commentary
 comments: true
 ---
 

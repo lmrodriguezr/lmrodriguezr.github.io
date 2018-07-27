@@ -1,0 +1,16 @@
+<ul>
+  {% for post in site.posts limit:1 %}
+    <li>
+      <h4>
+        {% if post.category %}
+          {{ post.category }}
+        {% else %}
+          Blog Post
+        {% endif %}
+        | {{ post.date | date_to_string }}
+      </h4>
+      <h3><a href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a></h3>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
