@@ -491,6 +491,7 @@ I submit that "prokaryote" is a
 [valid](#on-validity), and
 [appropriate](#on-appropriateness) term.
 
+# Notes and References
 
 [^1]: I say "perhaps" because these are not lipid membranes, so they may or may not count as an exception (not because I doubt their existence).
 [^2]: Egel. 2012. Primal Eukaryogenesis: On the Communal Nature of Precellular States, Ancestral to Modern Life. *Life* 2(1): 170–212. [DOI: 10.3390%2Flife2010170](https://doi.org/10.3390%2Flife2010170).
