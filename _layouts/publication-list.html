@@ -37,8 +37,8 @@ layout: compress
         </p>
         <hr class=hr-line>
         <div class="post-list">
-          {% for post in site.categories.Publication %}
-            <ul>
+          <ul>
+            {% for post in site.categories.Publication %}
               <li class="wow fadeInLeft card" data-wow-duration="1.5s">
                 <a class="zoombtn card-title" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                 <div class='card-under-title'>
@@ -51,8 +51,8 @@ layout: compress
                   {% if post.equal_contribution %}• Equal contribution.{% endif %}
                 </p>
               </li>
-            </ul>
-          {% endfor %}
+            {% endfor %}
+          </ul>
         </div>
       </div>
     </div>

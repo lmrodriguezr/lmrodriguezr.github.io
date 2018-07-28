@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Defense of Prokaryotes"
-date:   2017-07-27
+date:   2018-07-27
 excerpt: "On why 'prokaryote' is a useful, valid, and appropriate term."
 tag:
 - philosophy
