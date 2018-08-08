@@ -7,4 +7,4 @@ category: About
 ---
 
 **Dancing** (Zouk, Salsa, Bachata, Tango, Blues, Ballet), **Social Justice**
-(intersectional feminism), **Theater**, and **World Religions**.
+(intersectional feminism), **Design**, **Theater**, and **World Religions**.
