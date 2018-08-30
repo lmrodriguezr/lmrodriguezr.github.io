@@ -3,6 +3,7 @@ layout: post
 title:  Rereading Microbial Communities Under the Light of Metagenomics
 date:   2017-07-13
 excerpt: A quick overview of my doctoral dissertation
+category: Blog
 tag:
 - metagenomics
 - software
