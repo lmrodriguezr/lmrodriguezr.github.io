@@ -341,7 +341,7 @@ Again, from the Merriam-Webster Dictionary:
 
 This has significant overlap with [scientific validity](#scientific-validity)
 above. In summary, the term is objective and well defined
-(well-grounded and correct); it's definition is simple and it's already
+(well-grounded and correct); its definition is simple and it's already
 accepted and widely used, so defending its continued use is hardly unreasonable
 (sound).
 
@@ -465,7 +465,7 @@ while conveying meaning.
 The term prokaryote readily conveys an idea to many people:
 lack of nucleus and mitochondria (or at least lack of nucleus).
 This is lost when talking about "*Bacteria* and *Archaea*",
-and while it's preserved on "cellular organisms organisms except *Eukarya*",
+and while it's preserved on "cellular organisms except *Eukarya*",
 this phrase is simply a wordier version of prokaryotes, nothing more.
 Again, from Norman Pace[^3]:
 
