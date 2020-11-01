@@ -2,9 +2,9 @@
 layout: publication
 title:  "Using MiGA"
 date:   2020-09-25
-excerpt: "Classifying prokaryotic genomes using the Microbial Genomes Atlas (MiGA) webserver."
+excerpt: 'Classifying prokaryotic genomes using the Microbial Genomes Atlas (MiGA) webserver.'
 authors: 'Rodriguez-R LM, Harvey WT, Rosselló-Mora R, Tiedje JM, Cole JR, Konstantinidis KT.'
-citation: 'Bergey's Manual of Systematics of Archaea and Bacteria. 2020.'
+citation: "Bergey's Manual of Systematics of Archaea and Bacteria. 2020."
 category: Publication
 tag:
 - genomics
@@ -27,7 +27,7 @@ reliably calculated based on as little as ∼200 kb of a genome subsample. To
 identify genomes of already described taxa as well as assess the degree of
 novelty of genomes representing novel taxa and aid their taxonomic descriptions
 based on the ANI/AAI concept, we have developed the Microbial Genomes Atlas
-(MiGA) webserver ([www.microbial‐genomes.org](http://microbial‐genomes.org)).
+(MiGA) webserver ([www.microbial-genomes.org](http://microbial-genomes.org)).
 Therefore, MiGA represents the genome equivalent of ribosomal webservers.
 MiGA is regularly updated to include all available genomes of cultured and
 uncultured (*Candidatus*) type material in its reference database and offers
