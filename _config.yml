@@ -33,7 +33,6 @@ disqus_url:         'rodriguez-r.com'
 # Social
 # if you don't have any of social below, comment the line.
 google:
-  #plus:            'LuisMRodriguezR'
   analytics:        'UA-122331540-1'
   #verify:
   #ad-client:
@@ -50,7 +49,7 @@ linkedin:           'lmrodriguezr'
 #instagram:          '__lrr__'
 #lastfm:            username
 tumblr:             'lmrodriguezr'
-medium:            '@_lrr_'
+medium:             '@_lrr_'
 #pinterest:         username
 #foursquare:        username
 #steam:              username
