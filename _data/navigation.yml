@@ -1,4 +1,13 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Lab
+  url: /lab/
+
+- title: Publications
+  url: /publications/
+
+- title: Software
+  url: /software/
+
+- title: CV
+  url: /assets/cv-2020-1-en.pdf
