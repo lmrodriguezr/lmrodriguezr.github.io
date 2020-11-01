@@ -12,7 +12,7 @@ tag:
 - r
 publication: nonpareil-3
 github: lmrodriguezr/nonpareil
-r_package: nonpareil
+r_package: Nonpareil
 comments: true
 ---
 
