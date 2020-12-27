@@ -4,7 +4,7 @@ title: "Freshwater Iterative Subtractive Binning"
 date:   2020-06-14
 excerpt: 'Iterative Subtractive Binning of Freshwater Chronoseries Metagenomes Identifies over 400 Novel Species and their Ecologic Preferences'
 authors: 'Rodriguez-R LM, Tsementzi D, Luo C, Konstantinidis KT.'
-citation: 'Env Micro (in press). 2020.'
+citation: 'Env Micro, 22(8):3394-3412. 2020.'
 category: Publication
 tag:
 - genomics
