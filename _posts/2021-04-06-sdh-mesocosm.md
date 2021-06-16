@@ -13,7 +13,7 @@ doi: 10.1038/s41396-021-01017-6
 comments: true
 ---
 
-See the [Behind the Paper](https://naturemicrobiologycommunity.nature.com/posts/generalists-thrive-after-a-catastrophe).
+See the [Behind the Paper: Generalists thrive after a catastrophe](https://naturemicrobiologycommunity.nature.com/posts/generalists-thrive-after-a-catastrophe).
 
 ## Abstract
 
