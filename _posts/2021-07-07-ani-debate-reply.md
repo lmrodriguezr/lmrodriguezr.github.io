@@ -12,7 +12,7 @@ tag:
 - taxonomy
 - genomics
 - metagenomics
-doi: 10.1038/s41467-021-24128-2
+doi: 10.1038/s41467-021-24129-1
 comments: true
 ---
 
