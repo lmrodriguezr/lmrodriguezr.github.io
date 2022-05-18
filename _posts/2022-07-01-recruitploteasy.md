@@ -1,7 +1,7 @@
 ---
 layout: software
-title:  "RecruitPlotEasy"
-date:   2022-07-27
+title: "RecruitPlotEasy"
+date: 2022-01-27
 excerpt: "RecruitPlotEasy Recruitment Plots"
 category: Software
 tag:
@@ -10,7 +10,7 @@ tag:
 - population ecology
 - r
 - python
-publication: recruitploteasy
+publication: recruitploteasy-announcement
 github: KGerhardt/RecruitPlotEasy
 comments: true
 ---
