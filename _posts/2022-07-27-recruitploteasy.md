@@ -3,7 +3,8 @@ layout: publication
 title: 'RecruitPlotEasy Recruitement Plots'
 date: 2022-07-27
 excerpt: 'RecruitPlotEasy: An Advanced Read Recruitment Plot Tool for Assessing Metagenomic Population Abundance and Genetic Diversity'
-authors: 'Gerhardt K, Ruiz-Perez Ca, Rodriguez-R LM, Conrad RE, Konstantinidis KT.'
+authors: 'Gerhardt K•, Ruiz-Perez CA•, Rodriguez-R LM•, Conrad RE, Konstantinidis KT.'
+equal_contribution: true
 citation: 'Front. Bioinform., 2022.'
 category: Publication
 software: recruitploteasy
