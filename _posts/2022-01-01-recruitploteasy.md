@@ -1,7 +1,7 @@
 ---
 layout: software
 title: "RecruitPlotEasy"
-date: 2022-01-27
+date: 2022-01-01
 excerpt: "RecruitPlotEasy Recruitment Plots"
 category: Software
 tag:
