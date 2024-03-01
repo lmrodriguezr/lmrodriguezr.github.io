@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Profile at a glance
-date: 2018-07-08
+date: 2024-03-01
 comments: false
 category: About
 ---
@@ -25,11 +25,11 @@ microbiome analysis including the development and application of methods on
 **statistical techniques**, and **sequence analyses**.
 
 ## Scientific Production
-I’ve authored **over 50 papers and book chapters** (about a third as first
-author) with **over three thousand citations** and an **h-index of 24**,
-presented multiple **workshops**, **seminars**, and **symposia** on microbiome
-analysis for researchers and undergraduate educators, and served as **reviewer**
-for several international journals.
+I’ve authored **over 70 papers and book chapters** (about a third as first
+or corresponding author) with **over nine thousand citations** and an
+**h-index of 35**, presented multiple **workshops**, **seminars**, and
+**symposia** on microbiome analysis for researchers and undergraduate educators,
+and served as **reviewer** for several international journals.
 [See my list of publications](/publications/).
 
 ## Software Development
