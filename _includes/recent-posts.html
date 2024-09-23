@@ -1,7 +1,8 @@
 <div class='post-list'>
   <h2 class='title'>Recent Posts</h2>
   <ul>
-    {% for post in site.posts limit:3 %}
+    {%- assign posts = site.posts | where_exp: 'post', 'post.category != hidden' -%}
+    {% for post in posts limit:3 %}
       <li class='card'>
         <a class='card-title' href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a>
         <div class='card-under-title'>
